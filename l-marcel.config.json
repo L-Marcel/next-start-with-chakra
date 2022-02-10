@@ -1,10 +1,11 @@
 {
-  "name": "Template: Next Start",
+  "name": "Template: Next Start With Chakra",
   "technologies": [
     "Next.js",
     "React.js",
     "HTML",
     "CSS",
-    "SASS"
+    "SASS",
+    "Jest"
   ]
 }
