@@ -1,6 +1,6 @@
 {
   "name": "Template: Next Start With Chakra",
-  "translatedDescription": "O template que utilizarei para criar meus repositórios futuros que usaram o ChakraUI. Já vem com o arquivo de configuração do meu portfólio, com o TypeScript configurado e com as pastas devidamente organizadas.",
+  "translatedDescription": "O template criado e usado por mim para iniciar meus projetos. Este modelo tem toda a configuração da interface do usuário do Chakra, minha configuração de portfólio pessoal, Typescript e estrutura de pastas comuns.",
   "technologies": [
     "Next.js",
     "React.js",
